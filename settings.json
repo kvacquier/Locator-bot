@@ -1,0 +1,13 @@
+{
+    "origin": "4 Boulevard Victor Hugo, Montpellier, France",
+    "channels": {
+        "league_cup": {
+            "name": "cup-hunter",
+            "distance": 150
+        },
+        "league_challenge": {
+            "name": "challenge-predator",
+            "distance": 63
+        }
+    }
+}
